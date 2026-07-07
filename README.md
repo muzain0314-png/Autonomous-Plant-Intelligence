@@ -1,5 +1,13 @@
 
 
+https://github.com/user-attachments/assets/2285b427-bc4b-491a-bee1-3dfb8dac4c55
+
+
+
+
+
+
+
 # Autonomous Plant Intelligence & Bio-Shield System
 
 An advanced, AI-driven smart agriculture solution designed to revolutionize plant care, optimize growth, and provide complete bio-protection for modern farming and home gardening.

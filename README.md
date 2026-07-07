@@ -1,10 +1,5 @@
 
-
-
-
-
-
-
+https://github.com/user-attachments/assets/92292a6e-6f33-4628-8871-24e3d604c239
 
 # Autonomous Plant Intelligence & Bio-Shield System
 

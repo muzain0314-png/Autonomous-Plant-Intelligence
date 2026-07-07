@@ -10,7 +10,7 @@ This project represents Phase 1 (Proof of Concept) of a fully intelligent ecosys
 
 ## ✨ Key Features & Benefits
 * **Live Environmental Diagnostics:** Continuously monitors the immediate surroundings of the plant with absolute precision.
-* **Predictive AI Plant Health Model:** Analyzes real-time conditions to instantly update the exact health status of the plant.
+* **Predictive AI Automatic Plant Health Model:** Analyzes real-time conditions to instantly update the exact health status of the plant.
 * **Early Disease Prevention & Bio-Shielding:** Specially designed to detect potential plant risks and diseases early on, protecting crops from damage before it even happens.
 * **Maximum Efficiency & Growth:** Optimizes resources to ensure plants receive exactly what they need for healthy growth.
 
